@@ -49,6 +49,14 @@ Currently focused on building institutional systems that help universities and a
 
 ---
 
+## Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [Academic Promotions Workflow System](https://github.com/ahalabi1/spfx-academic-promotions-showcase) | Public showcase for a SharePoint/SPFx academic promotions workflow, reporting, evaluation, and export system |
+
+---
+
 ## GitHub
 
 Most of my work is focused on practical internal systems and production-ready SharePoint solutions.
