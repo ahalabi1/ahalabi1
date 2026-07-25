@@ -1,7 +1,7 @@
 # Abdullah Halabi | عبدالله حلبي
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/169472578?v=4" width="140" alt="Abdullah Halabi" />
+  <img src="assets/profile.jpg" width="140" alt="Abdullah Halabi" />
 </p>
 
 ## SharePoint / SPFx Developer | مطور أنظمة SharePoint و Microsoft 365
