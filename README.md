@@ -55,6 +55,7 @@ Currently focused on building institutional systems that help universities and a
 | --- | --- |
 | [Academic Promotions Workflow System](https://github.com/ahalabi1/spfx-academic-promotions-showcase) | Public showcase for a SharePoint/SPFx academic promotions workflow, reporting, evaluation, and export system |
 | [Postgraduate Studies Workflow System](https://github.com/ahalabi1/spfx-postgraduate-workflow-showcase) | Public showcase for a SharePoint/SPFx postgraduate studies workflow, thesis process, approvals, and reporting system |
+| [Enterprise Resource Planning System](https://github.com/ahalabi1/spfx-enterprise-resource-planning-showcase) | Public showcase for a SharePoint/SPFx enterprise workflow and operational resource planning system |
 
 ---
 
