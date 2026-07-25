@@ -1,6 +1,10 @@
-# Abdullah Halabi
+# Abdullah Halabi | عبدالله حلبي
 
-## SharePoint / SPFx Developer | Academic Workflow Systems
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/169472578?v=4" width="140" alt="Abdullah Halabi" />
+</p>
+
+## SharePoint / SPFx Developer | مطور أنظمة SharePoint و Microsoft 365
 
 أعمل على بناء وتطوير حلول SharePoint و Microsoft 365، مع تركيز خاص على أنظمة سير العمل الجامعية، التقارير، النماذج الإلكترونية، وأتمتة العمليات الإدارية.
 
@@ -12,7 +16,7 @@ I build SharePoint and Microsoft 365 solutions with a focus on academic workflow
 
 - SharePoint Framework web parts using React and TypeScript
 - Microsoft 365 and SharePoint Online custom solutions
-- Academic promotion and evaluation workflows
+- Academic promotion, evaluation, and committee workflows
 - Arabic-first dashboards, reports, and printable/exportable forms
 - Data-driven interfaces connected to SharePoint lists
 - PDF, Word, and print-ready report experiences
@@ -34,16 +38,16 @@ I build SharePoint and Microsoft 365 solutions with a focus on academic workflow
 ## Focus Areas
 
 ```text
-SharePoint Online   SPFx Web Parts   React UI
-Arabic RTL Systems  Academic Reports Workflow Automation
-REST APIs           PDF / Word Export Data Validation
+SharePoint Online    SPFx Web Parts      React UI
+Arabic RTL Systems   Academic Reports    Workflow Automation
+REST APIs            PDF / Word Export   Data Validation
 ```
 
 ---
 
 ## Current Direction
 
-أعمل حالياً على تطوير أنظمة مؤسسية تساعد الجامعات والفرق الإدارية على إدارة الطلبات، التقييمات، التقارير، والاعتمادات بطريقة أوضح وأسرع.
+أعمل حاليًا على تطوير أنظمة مؤسسية تساعد الجامعات والفرق الإدارية على إدارة الطلبات، التقييمات، التقارير، والاعتمادات بطريقة أوضح وأسرع.
 
 Currently focused on building institutional systems that help universities and administrative teams manage requests, evaluations, reports, and approvals more clearly and efficiently.
 
@@ -59,10 +63,8 @@ Currently focused on building institutional systems that help universities and a
 
 ---
 
-## GitHub
+## Contact
 
 Most of my work is focused on practical internal systems and production-ready SharePoint solutions.
-
-You can reach me through GitHub:
 
 [github.com/ahalabi1](https://github.com/ahalabi1)
